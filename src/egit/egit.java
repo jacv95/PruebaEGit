@@ -3,7 +3,7 @@ package egit;
 public class egit {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Esta clase es para la prueba de EGit");
 
 	}
 
